@@ -1,0 +1,7 @@
+streamlit
+watchdog
+pandas
+pytest
+# ML DEV
+scikit-learn
+pandas_profiling
